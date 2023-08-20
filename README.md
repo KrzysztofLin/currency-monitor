@@ -14,7 +14,7 @@ With this application you can track the current value of gold and countries' cur
 This application is the easiest way to keep up with prices and better understand currencies trading rules.
 
 
-https://github.com/KrzysztofLin/currency-monitor/assets/102530541/b351bf0a-c062-4a80-877a-66be03f8c628
+https://github.com/KrzysztofLin/currency-monitor/assets/102530541/62a99a87-9f1c-4c0f-88a5-77baf0d21ae9
 
 
 
