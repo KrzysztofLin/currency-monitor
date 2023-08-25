@@ -32,7 +32,8 @@ To install and run the app on your mobile device, follow these steps:
 ## Example of use:
 ### Gold View
    Visualization of the gold price chart. Chart displays historical gold values over the past 255 days and today's current price. The current gold price is shown in bold text at the top of the chart. Information about gold prices is fetch from NBP API.
-![Screenshot 2023-08-20 at 17-12-27 jacekk024_Stock-App](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/340ff80d-182c-444e-b9e2-0a7454f1ae7c)
+![1_5](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/c6e1484a-58c6-4515-8a31-5020d30bd19a)
+
 
 
 ### Currency
@@ -41,19 +42,20 @@ View in which users can convert an amount of cash from złoty to a selected curr
 In addition to the currency conversion, the app also displays a chart of the currency prices over the past 30 days. This chart provides users with a visual representation of the currency's recent performance, which can help them make informed decisions about their transactions.
 
 Overall, this view provides users with a convenient and informative way to convert currencies and track their performance over time.
-![Screenshot 2023-08-20 at 17-12-33 jacekk024_Stock-App](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/d8bb3cfa-8aac-43d2-b6b5-691760568545)
+
+![1_3](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/85e87e3c-d8c3-48ce-acbb-db31a8ac464b)
 
 
 ### Currency Calculator
 Screenshot of the currency calculator feature in my app, allowing users to quickly convert cash between different currencies. The calculator has two picker fields, one for selecting the initial currency and another for selecting the target currency. The user can then enter the desired amount of cash to convert in the input field below. The app instantly calculates the converted amount and displays it on the screen. This feature is ideal for users who frequently travel abroad or engage in international transactions.
 
-![Screenshot 2023-08-20 at 17-12-37 jacekk024_Stock-App](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/dafda5eb-20c3-43d0-a48b-0d38f26102d7)
+![1_2](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/7f11b8bc-644a-47bd-b8d2-51343bd5c88b)
 
 
 ### Currency List
 Screenshot of the currency list feature in my app, displaying a flatlist of currencies with their respective codes, prices, and flags of the countries they represent. The data for the prices is fetched in real-time from the NBP API, ensuring that users always have access to the most up-to-date information. Users can tap on any of the currencies in the list to view a detailed description of that currency. This feature is useful for anyone looking to stay up-to-date on the latest currency exchange rates or make international transactions.
 
-![Screenshot 2023-08-20 at 17-12-43 jacekk024_Stock-App](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/f2507074-17cf-4a40-bc40-2b082aa93d9f)
+![1_1](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/01810852-7fd1-45f6-a4d3-16ee8e37f90f)
 
 
 ### Drawer Navigation
@@ -61,7 +63,7 @@ The drawer navigation menu is accessible by swiping right from the left edge of 
 
 The screenshot shows the drawer navigation feature in my app, which provides easy access to three different pages: the currency list, the currency calculator, and the gold view. 
 
-![Screenshot 2023-08-20 at 17-12-46 jacekk024_Stock-App](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/1227f66a-77b4-42bc-bf8e-c3a53074151d)
+![1_4](https://github.com/KrzysztofLin/currency-monitor/assets/102530541/3706d2d0-9d6a-452f-91c7-572f1df45955)
 
 
 ## Technologies
